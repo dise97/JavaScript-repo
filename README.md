@@ -10,6 +10,6 @@ When we talk about technologies we used for this project, I can say that we actu
 -CSS
 -JavaScript
  
- # # # Launchig:
+ # # # Launching:
  
  Speaking of launching, we launched this website on localhost because it was all that we need for presentation.
